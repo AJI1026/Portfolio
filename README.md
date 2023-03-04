@@ -1,18 +1,28 @@
-# Personal-Portfolio-2-starter-pack
-  * https://youtubebinjanportfolio.pages.dev
+## 个人网站
 
-## Fonts link
-  * https://stijndv.com/fonts/Eudoxus-Sans.css
+### 个人介绍
 
-## Slick slider links
-  * https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css
-  
-  * https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css
-  
-## NodeJS
-  * https://nodejs.org/en/download/
-  
-## Git
-  * https://git-scm.com/downloads
- 
-# Portfolio
+- #### 个人简介
+
+  - 24  本科  澳门科技大学 软件技术及其应用专业
+
+- #### 个人工作经验
+
+  - 1年
+
+- #### 个人项目经历
+
+  - 基于Vue2的博客
+  - 基于Vue2的书店商城
+  - 公司内部的后台管理系统（二次开发）
+  - Uni-app购物商城
+  - 基于Vuex的即时聊天室
+
+### 个人组件库
+
+---后期会开发---
+
+### 个人文档网站链接
+
+https://starlamborginniaji.cn
+

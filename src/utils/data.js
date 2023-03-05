@@ -4,19 +4,19 @@ import { MdWorkspacesOutline } from "react-icons/md";
 export const projectExperience = [
   {
     name: "Website Design",
-    projects: 76,
+    projects: 4,
     icon: HiOutlineDesktopComputer,
     bg: "#286F6C",
   },
   {
     name: "Mobile App Design",
-    projects: 63,
+    projects: 2,
     icon: CiMobile1,
     bg: "#EEC048",
   },
   {
     name: "Brand Identity",
-    projects: 47,
+    projects: 1,
     icon: MdWorkspacesOutline,
     bg: "#F26440",
   },
@@ -29,25 +29,25 @@ export const WhatDoIHelp = [
 
 export const workExp = [
   {
-    place: "Self-Employed, Brisbane",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Visual Designer",
+    place: "Individual development",
+    tenure: "Aug 2020 - Dec 2020",
+    role: "Web Designer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "A project based on Vue + Vue-element-admin",
   },
   {
-    place: "New Man Services",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "UI/UX Designer",
+    place: "Individual development",
+    tenure: "Jan 2022 - Mar 2022",
+    role: "Web Designer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "A Full-stack project based on Vue + Socket.io + Node.js + Mongodb",
   },
   {
-    place: "Global Solution",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Sr. Product Designer",
+    place: "Individual development",
+    tenure: "Dec 2022 - Mar 2023",
+    role: "Web Designer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "A Full-stack project based on Vue + Node.js + MySQL",
   },
 ];
 
